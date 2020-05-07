@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plots", "Plots.csproj", "{0516AD3A-781A-4701-8D4D-5285B774B5BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlotLib", "PlotLib\PlotLib.csproj", "{D6796F94-DC06-4C73-8EC6-4CE5747E8753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0516AD3A-781A-4701-8D4D-5285B774B5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0516AD3A-781A-4701-8D4D-5285B774B5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0516AD3A-781A-4701-8D4D-5285B774B5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0516AD3A-781A-4701-8D4D-5285B774B5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6796F94-DC06-4C73-8EC6-4CE5747E8753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6796F94-DC06-4C73-8EC6-4CE5747E8753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6796F94-DC06-4C73-8EC6-4CE5747E8753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6796F94-DC06-4C73-8EC6-4CE5747E8753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2248CED8-0606-44E6-82B5-822976532BC0}
+	EndGlobalSection
+EndGlobal
